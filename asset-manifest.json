@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b3278dd.chunk.css",
+    "main.js": "/static/js/main.4c740704.chunk.js",
+    "main.js.map": "/static/js/main.4c740704.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
+    "static/js/2.eace7c68.chunk.js": "/static/js/2.eace7c68.chunk.js",
+    "static/js/2.eace7c68.chunk.js.map": "/static/js/2.eace7c68.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.57ed32fdfc2885cf25b60991a49c7892.js": "/precache-manifest.57ed32fdfc2885cf25b60991a49c7892.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4b3278dd.chunk.css.map": "/static/css/main.4b3278dd.chunk.css.map",
+    "static/js/2.eace7c68.chunk.js.LICENSE.txt": "/static/js/2.eace7c68.chunk.js.LICENSE.txt",
+    "static/media/avatar-aiysha.jpg": "/static/media/avatar-aiysha.d1d950e0.jpg",
+    "static/media/avatar-arthur.jpg": "/static/media/avatar-arthur.60ff8909.jpg",
+    "static/media/avatar-kady.jpg": "/static/media/avatar-kady.f16826ca.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0ae09a.js",
+    "static/js/2.eace7c68.chunk.js",
+    "static/css/main.4b3278dd.chunk.css",
+    "static/js/main.4c740704.chunk.js"
+  ]
+}
