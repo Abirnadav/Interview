@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: #004047;
+  height: 85vh;
+  padding-top: 15vh;
 }
 
 .App-logo {
@@ -35,4 +38,85 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.header {
+  /* Style for "Delivering" */
+  width: 932px;
+  height: 89px;
+  color: #ffffff;
+  font-family: "Livvic - Bold";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  /* Text style for "success st" */
+  color: #ffffff;
+
+  margin: 0 auto;
+  /* margin-top: 140px; */
+}
+
+.header span {
+  color: #79c8c7;
+}
+.box-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.box {
+  /* Style for "“Amazing." */
+  width: 350px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "Livvic - Semi Bold";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box span {
+  width: 350px;
+  height: 28px;
+  color: #79c8c7;
+  font-family: "Livvic - Bold";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.img-poeple {
+  /* Style for "Oval Copy" */
+  width: 62px;
+  height: 62px;
+  border: 2px solid #c4fffe;
+  border-radius: 50%;
+  margin-top: 63px;
+}
+
+.box h2 {
+  margin-bottom: 3px;
+}
+
+.thing {
+  width: 67px;
+  height: 56px;
+  margin-bottom: -20px;
+}
+
+.top {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
